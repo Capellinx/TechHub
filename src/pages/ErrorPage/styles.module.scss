@@ -1,0 +1,23 @@
+.container {
+   width: 100vw;
+   height: 100vh;
+
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-direction: column;
+
+   img {
+      width: 500px;
+   }
+
+   p {
+      font-size: 40px;
+   }
+
+   a {
+      width: 100px;
+      margin-top: 50px;
+      text-align: center;
+   }
+}
