@@ -1,0 +1,25 @@
+.cardForm {
+   max-width: 37.0rem;
+   margin: 0 auto;
+   padding-top: 2.2rem;
+   border-radius: var(--radius);
+   background-color: var(--gray-3);
+   margin-top: 5.0rem;
+   padding: 2.0rem;
+
+
+   h1,
+   h2,
+   span {
+      display: block;
+      text-align: center;
+   }
+
+   button {
+      margin-top: 2.2rem;
+   }
+
+   input {
+      margin-top: 1.0rem;
+   }
+}
