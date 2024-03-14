@@ -18,6 +18,7 @@
     "react-loading": "^2.0.3",
     "react-loading-io": "^2.2.1",
     "react-router-dom": "^6.22.3",
+    "react-toastify": "^10.0.4",
     "zod": "^3.22.4"
   },
   "devDependencies": {
