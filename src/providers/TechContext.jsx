@@ -35,7 +35,7 @@ export const TechProvider = ({ children }) => {
          setTechList(newTechList);
          toast.success("Tech criada com sucesso!");
       } catch (error) {
-         toast.error(error);
+         console.log(error);
       }
    }
 
@@ -52,7 +52,7 @@ export const TechProvider = ({ children }) => {
          setTechList(newTechList);
          toast.success("Tech deletada com sucesso!");
       } catch (error) {
-         toast.error(error);
+         console.log(error);
       }
    }
 
@@ -76,7 +76,7 @@ export const TechProvider = ({ children }) => {
          setEditTech(null);
          toast.success("Tech atualizada com sucesso!");
       } catch (error) {
-         toast.error(error);
+         console.log(error);
       }
    }
 

@@ -2,7 +2,6 @@ import { RoutesMain } from './routes/RoutesMain';
 import { useContext } from 'react';
 import { UserContext } from './providers/UserContext';
 
-import 'react-toastify/dist/ReactToastify.css';
 import './styles/index.scss'
 
 export const App = () => {
@@ -11,7 +10,6 @@ export const App = () => {
 
   return (
     <>
-      <ToastContainer theme='dark' />
       < RoutesMain />
     </>
   )
