@@ -4,16 +4,9 @@
  <img src="./src/assets/Logo.svg">
 </h1>
 
-<h4 align="center">Developers' platform to register, log in, and showcase tech skills with proficiency levels. <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<h4 align="center">Developers' platform to register, log in, and showcase tech skills with proficiency levels.</h4>
 
-<!-- <p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
-</p> -->
+
 
 ![video](https://github.com/Capellinx/TechHub/assets/85126551/97a01f62-dd79-4afb-8074-45179c148806)
 
