@@ -1,0 +1,29 @@
+.list {
+   padding: 1.0rem;
+   height: 6.0rem;
+   color: var(--gray-0);
+   background-color: var(--gray-4);
+   border-radius: var(--radius);
+   display: flex;
+   align-items: center;
+
+   position: relative;
+
+   &:hover {
+      opacity: 0.8;
+   }
+
+   div {
+      display: flex;
+      align-items: center;
+      gap: 1.25rem;
+      color: var(--gray-1);
+
+      position: absolute;
+      right: 3.0rem;
+
+      svg {
+         cursor: pointer;
+      }
+   }
+}
