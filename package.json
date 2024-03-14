@@ -15,7 +15,9 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.51.0",
+    "react-loading": "^2.0.3",
     "react-loading-io": "^2.2.1",
+    "react-router-dom": "^6.22.3",
     "zod": "^3.22.4"
   },
   "devDependencies": {
