@@ -8,6 +8,10 @@
 
 
 
+https://github.com/Capellinx/TechHub/assets/85126551/104a61b8-116c-47de-8113-ff575bdb0fec
+
+
+
 ## 🚀 The technologies used 
 - React
 - Scss (module)
